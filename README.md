@@ -4,3 +4,7 @@ This repo showcases my professional achievements and certifications, highlightin
 
 ## My Oracle Certifications
 - [Oracle Certifications](./Oracle/README.md)
+
+
+## My Deloitte Certifications
+- [Deloitte Certifications](./Deloitte/README.md)
