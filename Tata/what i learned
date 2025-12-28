@@ -1,0 +1,78 @@
+📌 Project Overview
+
+This project focuses on analyzing retail sales data to understand customer behavior, revenue trends, and regional performance. The goal was to clean raw transactional data and build meaningful visuals that help business stakeholders make better decisions.
+
+The entire analysis is created using Power BI, with a strong focus on data cleaning, filtering logic, and meaningful visual storytelling.
+
+🧹 Data Cleaning & Preparation
+
+Before creating any visuals, the dataset was cleaned to ensure accurate analysis:
+
+Removed records where Quantity < 1 (returns or invalid sales)
+
+Removed rows where Unit Price < 0
+
+Created calculated measures for:
+
+Total Revenue
+
+Total Quantity
+
+Ensured clean and consistent data before visualization
+
+📊 Business Questions Answered
+1️⃣ Monthly Revenue Trend (2011)
+
+Analyzed monthly revenue for the year 2011.
+
+Used a line chart to identify seasonality and sales patterns.
+
+Helped understand peak and low-performing months.
+
+2️⃣ Top 10 Countries by Revenue (Excluding UK)
+
+Identified top-performing countries based on total revenue.
+
+United Kingdom was excluded to focus on international markets.
+
+Quantity sold was also included to understand demand along with revenue.
+
+3️⃣ Top 10 Customers by Revenue
+
+Identified customers generating the highest revenue.
+
+Useful for customer segmentation and retention strategy.
+
+Displayed using a bar chart sorted in descending order.
+
+4️⃣ Country-wise Product Demand
+
+Analyzed demand across different countries using quantity sold.
+
+United Kingdom was excluded to focus on expansion opportunities.
+
+Helped identify regions with high market potential.
+
+🧠 Key Learnings from This Project
+
+Learned how to clean raw retail data before analysis.
+
+Understood the importance of Top N filtering in Power BI.
+
+Learned how to use visual-level filters effectively instead of complex DAX when possible.
+
+Gained clarity on how business questions translate into dashboard visuals.
+
+Improved understanding of real-world reporting and storytelling.
+
+🛠 Tools Used
+
+Power BI
+
+DAX (for calculated measures)
+
+Data Cleaning & Transformation
+
+✅ Conclusion
+
+This project helped me understand how to convert raw transactional data into meaningful business insights using Power BI. It strengthened my skills in data cleaning, visualization, and analytical thinking, and gave me hands-on experience in solving real business problems.
